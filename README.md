@@ -9,8 +9,10 @@
 
 ## Lerna
 
--   `lerna changed` - Show which packages have changed.
--   `lerna diff` - Show specifically what files have cause the packages to change.
+-   `npx lerna changed` - Show which packages have changed.
+-   `npx lerna diff` - Show specifically what files have cause the packages to change.
+-   `npx lerna version` - Pushes tags to GitHub
+-   `npx lerna publish` - Release packages to NPM
 
 ## Linking
 
